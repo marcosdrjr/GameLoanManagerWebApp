@@ -1,0 +1,46 @@
+﻿.login-page {
+    background-image: url('../Imagens/Login 07.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    bottom: 9px;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
+
+ 
+    .login-page h1 {
+        font-weight: 300;
+        color: black;
+    }
+
+        .login-page h1 small {
+            color: gray;
+            opacity: 0.7;
+        }
+        .login-page h1 mark {
+            background-color: grey;
+            opacity: 0.9;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 5px;
+        }
+
+
+
+    .login-page h1 {
+        font-weight: 300;
+        color: black;
+    }
+
+    .login-page .form-group {
+        padding: 8px 0;
+    }
+
+    .login-page .form-content {
+        padding: 40px 0;
+    }
